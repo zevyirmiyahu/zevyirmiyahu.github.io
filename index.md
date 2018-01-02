@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## The Gods of Time
+## official project page!
 
-You can use the [editor on GitHub](https://github.com/zevyirmiyahu/zevyirmiyahu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a game project of mine that is an action-adventure style game. The game is written from scratch in Java and all sprites for the game were crafted using aseprite (https://www.aseprite.org/). page You can use the [editor on GitHub](https://github.com/zevyirmiyahu/zevyirmiyahu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Key Features of Project
+
+1. Switch between two weapons (sword and magic)
+2. Animated water movement
+3. Open world map
+4. Crisps pixel characters and enivorment
+5. Challenging Quests
 
 ### Markdown
 
@@ -34,4 +43,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you'd like to know more about me, http://zevyirmiyahu.com/ or connect with me on Facebook at https://www.facebook.com/ZevYirmiyahu 
