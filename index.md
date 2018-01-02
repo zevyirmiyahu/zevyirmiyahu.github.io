@@ -1,21 +1,27 @@
-## The Gods of Time
-## official project page!
+## ZY Programming Projects
 
-This is a game project of mine that is an action-adventure style game. The game is written from scratch in Java and all sprites for the game were crafted using aseprite (https://www.aseprite.org/). page You can use the [editor on GitHub](https://github.com/zevyirmiyahu/zevyirmiyahu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome!
+Here you can find links to all my game development projects, as well as other development projects. Also, feel free to check out my art at zevyirmiyahu.com/gallery which show cases everything from pencil drawings, digital art and pixel art. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Game Projects
+### Java
+  -The Gods of Time(zevyirmiyahu.github.io/got.md)
 
-### Key Features of Project
+### C++
 
-1. Switch between two weapons (sword and magic)
-2. Animated water movement
-3. Open world map
-4. Crisps pixel characters and enivorment
-5. Challenging Quests
+### C#
 
-### Markdown
+## Other Dev Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### HTML, CSS, Javascript, Bootstrap
+  --Personal Site
+  
+  --Zev's Brain Breakers
+  
+### Java
+  --Number info Program
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -30,16 +36,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zevyirmiyahu/zevyirmiyahu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
