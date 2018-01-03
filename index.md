@@ -5,7 +5,7 @@ Here you can find links to all my personal game development projects, as well as
 
 ##  Game Projects
 ### Java
-  -[The Gods of Time](http://zevyirmiyahu.github.io/got.md)
+  -[The Gods of Time](http://zevyirmiyahu.github.io/GOT/)
 
 ### C++
 
