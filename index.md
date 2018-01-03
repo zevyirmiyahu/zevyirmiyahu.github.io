@@ -1,11 +1,11 @@
 ## ZY Programming Projects
 
 ## Welcome!
-Here you can find links to all my game development projects, as well as other development projects. Also, feel free to check out my art at zevyirmiyahu.com/gallery which show cases everything from pencil drawings, digital art and pixel art. 
+Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
 
 ##  Game Projects
 ### Java
-  -The Gods of Time(zevyirmiyahu.github.io/got.md)
+  -[The Gods of Time](http://zevyirmiyahu.github.io/got.md)
 
 ### C++
 
@@ -14,7 +14,7 @@ Here you can find links to all my game development projects, as well as other de
 ## Other Dev Projects
 
 ### HTML, CSS, Javascript, Bootstrap
-  --Personal Site
+  --[Personal Site](http://zevyirmiyahu.com)
   
   --Zev's Brain Breakers
   
@@ -23,20 +23,6 @@ Here you can find links to all my game development projects, as well as other de
 
 
 
-```markdown
-Syntax highlighted code block
+## Support or Contact
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-### Support or Contact
-
-If you'd like to know more about me, http://zevyirmiyahu.com/ or connect with me on Facebook at https://www.facebook.com/ZevYirmiyahu 
+If you'd like to know more about me, visit my [personal site](http://zevyirmiyahu.com), [LinkedIn](https://www.linkedin.com/in/zevyirmiyahu) or connect with me on [Facebook](https://www.facebook.com/ZevYirmiyahu)
