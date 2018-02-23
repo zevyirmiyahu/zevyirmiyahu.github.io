@@ -14,8 +14,8 @@ Here you can find links to all my personal game development projects, as well as
 ## Other Dev Projects
 
 ### HTML, CSS, Javascript, Bootstrap
-  *[Personal Site](http://zevyirmiyahu.com)
-  *[Green Screen](https://zevyirmiyahu.github.io/GreenScreen/)
+  * [Personal Site](http://zevyirmiyahu.com)
+  * [Green Screen](https://zevyirmiyahu.github.io/GreenScreen/)
   
   --Zev's Brain Breakers
   
