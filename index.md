@@ -5,6 +5,7 @@ Here you can find links to all my personal game development projects, as well as
 
 ##  Game Projects
 ### Java
+  * [Super Mario Survival]
   * [The Gods of Time](https://zevyirmiyahu.github.io/GOT/)
 
 ### C++
@@ -17,10 +18,9 @@ Here you can find links to all my personal game development projects, as well as
   * [Personal Site](http://zevyirmiyahu.com)
   * [Green Screen](https://zevyirmiyahu.github.io/GreenScreen/)
   
-  --Zev's Brain Breakers
   
 ### Java
-  --Number info Program
+  --[Number info Program](https://github.com/zevyirmiyahu/NumberApp)
 
 
 
