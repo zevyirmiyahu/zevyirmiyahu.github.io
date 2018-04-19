@@ -1,6 +1,6 @@
 ## ZY Programming Projects 
 
-Me programming
+Me programming (just look at that focus) -->
 <img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="320" height="362">
 
 ## Welcome!
