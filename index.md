@@ -20,8 +20,8 @@ Here you can find links to all my personal game development projects, as well as
   
   
 ### Java
-  --[Number info Program](https://github.com/zevyirmiyahu/NumberApp)
-  --[Baby Name Program](https://zevyirmiyahu.github.io/Baby_Names_By_Year/)
+* [Number info Program](https://github.com/zevyirmiyahu/NumberApp)
+* [Baby Name Program](https://zevyirmiyahu.github.io/Baby_Names_By_Year/)
 
 
 ## Support or Contact
