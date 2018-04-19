@@ -1,9 +1,9 @@
-## ZY Programming Projects
+## ZY Programming Projects ![Image](https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg =649x1137)
 
 ## Welcome!
 Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
 
-##  Game Projects
+##  *Game Projects*
 ### Java
   * [Super Mario Survival](https://zevyirmiyahu.github.io/super_mario_survival/)
   * [The Gods of Time](https://zevyirmiyahu.github.io/GOT/)
@@ -12,7 +12,7 @@ Here you can find links to all my personal game development projects, as well as
 
 ### C\#
 
-## Other Dev Projects
+## *Other Dev Projects*
 
 ### HTML, CSS, Javascript, Bootstrap
   * [Personal Site](http://zevyirmiyahu.com)
