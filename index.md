@@ -1,5 +1,5 @@
-## ZY Programming Projects
-![Image](https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg =649x1137)
+## ZY Programming Projects <img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="649" height="1137">
+
 
 ## Welcome!
 Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
