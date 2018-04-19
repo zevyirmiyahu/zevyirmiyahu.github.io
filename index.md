@@ -1,5 +1,5 @@
 ## ZY Programming Projects 
-<img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="649" height="1137">
+<img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="320" height="569"> 
 ![Image](https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg)
 
 ## Welcome!
