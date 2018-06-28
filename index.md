@@ -28,6 +28,9 @@ Here you can find links to all my personal game development projects, as well as
 * [Common Words in Multiple Text Files](https://github.com/zevyirmiyahu/words_in_files)
 * [Invert and Grey Image Maker](https://github.com/zevyirmiyahu/Invert_and_Grey_Imager)
 
+### Standard ML
+* [Dates analysis](https://github.com/zevyirmiyahu/Dates_SML)
+
 Me programming (just look at that focus) -->
 <img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="320" height="362">
 ## Support or Contact
