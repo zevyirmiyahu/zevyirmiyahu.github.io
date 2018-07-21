@@ -29,6 +29,7 @@ Here you can find links to all my personal game development projects, as well as
 * [Invert and Grey Image Maker](https://github.com/zevyirmiyahu/Invert_and_Grey_Imager)
 
 ### Standard ML
+* [Card Game](https://github.com/zevyirmiyahu/card_game)
 * [Dates analysis](https://github.com/zevyirmiyahu/Dates_SML)
 
 Me programming (just look at that focus) -->
