@@ -11,6 +11,7 @@ Here you can find links to all my personal game development projects, as well as
 ### C++
 
 ### C\#
+  * [Game Timer](https://github.com/zevyirmiyahu/GameTimer)
 
 ## *Other Dev Projects*
 
@@ -20,21 +21,21 @@ Here you can find links to all my personal game development projects, as well as
   
   
 ### Java
-* [Number Info Program](https://github.com/zevyirmiyahu/NumberApp)
-* [Baby Name Program](https://zevyirmiyahu.github.io/Baby_Names_By_Year/)
-* [DNA Codon Counting](https://github.com/zevyirmiyahu/codon_counting)
-* [Caesar Cipher](https://github.com/zevyirmiyahu/Caesar_Cipher)
-* [CSV Data Parser](https://github.com/zevyirmiyahu/DataParsingApp/tree/master)
-* [Common Words in Multiple Text Files](https://github.com/zevyirmiyahu/words_in_files)
-* [Invert and Grey Image Maker](https://github.com/zevyirmiyahu/Invert_and_Grey_Imager)
+  * [Number Info Program](https://github.com/zevyirmiyahu/NumberApp)
+  * [Baby Name Program](https://zevyirmiyahu.github.io/Baby_Names_By_Year/)
+  * [DNA Codon Counting](https://github.com/zevyirmiyahu/codon_counting)
+  * [Caesar Cipher](https://github.com/zevyirmiyahu/Caesar_Cipher)
+  * [CSV Data Parser](https://github.com/zevyirmiyahu/DataParsingApp/tree/master)
+  * [Common Words in Multiple Text Files](https://github.com/zevyirmiyahu/words_in_files)
+  * [Invert and Grey Image Maker](https://github.com/zevyirmiyahu/Invert_and_Grey_Imager)
 
 ### Racket
-* [Simple Program](https://github.com/zevyirmiyahu/simple_racket_program/blob/master/hw4.rkt)
+  * [Simple Program](https://github.com/zevyirmiyahu/simple_racket_program/blob/master/hw4.rkt)
 
 ### Standard ML
-* [Card Game](https://github.com/zevyirmiyahu/card_game)
-* [Functions and Closure](https://github.com/zevyirmiyahu/Functions_SML)
-* [Dates Analysis](https://github.com/zevyirmiyahu/Dates_SML)
+  * [Card Game](https://github.com/zevyirmiyahu/card_game)
+  * [Functions and Closure](https://github.com/zevyirmiyahu/Functions_SML)
+  * [Dates Analysis](https://github.com/zevyirmiyahu/Dates_SML)
 
 Me programming (just look at that focus) -->
 <img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="320" height="362">
