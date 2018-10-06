@@ -1,4 +1,4 @@
-## ZY Programming Projects 
+# Zev's Programming Projects 
 
 ## Welcome!
 Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
