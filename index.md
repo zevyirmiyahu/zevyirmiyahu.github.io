@@ -10,6 +10,7 @@ Here you can find links to all my personal game development projects, as well as
   * [The Gods of Time](https://zevyirmiyahu.github.io/GOT/)
 
 ### C++
+* [Snakes](https://github.com/zevyirmiyahu/Snakes)
 
 ### C\#
   * [Game Timer](https://github.com/zevyirmiyahu/GameTimer)
