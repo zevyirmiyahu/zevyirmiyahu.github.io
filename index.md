@@ -1,6 +1,8 @@
 ## Welcome! ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
 
+<hr>
+
 ##  *Game Projects*
 ### Java
   * [Pac-Man](https://zevyirmiyahu.github.io/Pac-Man/)
@@ -9,16 +11,16 @@ Here you can find links to all my personal game development projects, as well as
 
 ### C++
 * [Snakes](https://github.com/zevyirmiyahu/Snakes)
-<hr>
+
 ### C\#
   * [Game Timer](https://github.com/zevyirmiyahu/GameTimer)
 
-## *Other Dev Projects*
+<hr>
 
+## *Other Dev Projects*
 ### HTML, CSS, Javascript, Bootstrap
   * [Personal Site](http://zevyirmiyahu.com)
   * [Green Screen](https://zevyirmiyahu.github.io/GreenScreen/)
-  
   
 ### Java
   * [Student Report Generator](https://zevyirmiyahu.github.io/Student_Report_Generator/)
@@ -40,6 +42,8 @@ Here you can find links to all my personal game development projects, as well as
   * [Card Game](https://github.com/zevyirmiyahu/card_game)
   * [Functions and Closure](https://github.com/zevyirmiyahu/Functions_SML)
   * [Dates Analysis](https://github.com/zevyirmiyahu/Dates_SML)
+
+<hr>
 
 ## Contact
 
