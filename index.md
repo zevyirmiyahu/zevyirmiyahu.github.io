@@ -23,7 +23,7 @@ Here you can find links to all my personal game development projects, as well as
   
   
 ### Java
-  * [Student Report Generator](https://github.com/zevyirmiyahu/Student_Report_Generator)
+  * [Student Report Generator](https://zevyirmiyahu.github.io/Student_Report_Generator)
   * [Number Info Program](https://github.com/zevyirmiyahu/NumberApp)
   * [Baby Name Program](https://zevyirmiyahu.github.io/Baby_Names_By_Year/)
   * [DNA Codon Counting](https://github.com/zevyirmiyahu/codon_counting)
