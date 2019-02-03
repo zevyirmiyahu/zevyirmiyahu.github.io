@@ -9,7 +9,7 @@ Here you can find links to all my personal game development projects, as well as
 
 ### C++
 * [Snakes](https://github.com/zevyirmiyahu/Snakes)
-
+<hr>
 ### C\#
   * [Game Timer](https://github.com/zevyirmiyahu/GameTimer)
 
