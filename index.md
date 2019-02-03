@@ -40,7 +40,7 @@ Here you can find links to all my personal game development projects, as well as
   * [Card Game](https://github.com/zevyirmiyahu/card_game)
   * [Functions and Closure](https://github.com/zevyirmiyahu/Functions_SML)
   * [Dates Analysis](https://github.com/zevyirmiyahu/Dates_SML)
-## ______________________________________________________________________________________________________________________
+## _______________________________________________________________________________
 
 ## Contact
 
