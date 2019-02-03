@@ -3,4 +3,4 @@ logo: /assets/img/GitHub-Mark-120px-plus.png
 description: Programming Portfolio
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
