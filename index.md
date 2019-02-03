@@ -41,8 +41,6 @@ Here you can find links to all my personal game development projects, as well as
   * [Functions and Closure](https://github.com/zevyirmiyahu/Functions_SML)
   * [Dates Analysis](https://github.com/zevyirmiyahu/Dates_SML)
 
-Me programming (just look at that focus) -->
-<img src="https://zevyirmiyahu.github.io/images/Me/Me_Programming.jpg " alt="Image" width="320" height="362">
 ## Support or Contact
 
 If you'd like to know more about me, visit my [personal site](http://zevyirmiyahu.com), [LinkedIn](https://www.linkedin.com/in/zevyirmiyahu) or connect with me on [Facebook](https://www.facebook.com/ZevYirmiyahu)
