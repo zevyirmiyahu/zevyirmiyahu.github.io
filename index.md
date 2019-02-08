@@ -1,9 +1,9 @@
-## Welcome! ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+## Welcome! ![](big_bunny_jump.gif)
 Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
 
 <hr>
 
-##  *Game Projects* ![](big_bunny_jump.gif)
+##  *Game Projects*
 ### Java
   * [Pac-Man](https://zevyirmiyahu.github.io/Pac-Man/)
   * [Super Mario Survival](https://zevyirmiyahu.github.io/super_mario_survival/)
@@ -46,6 +46,6 @@ Here you can find links to all my personal game development projects, as well as
 
 <hr>
 
-## Contact
+## Contact ![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 If you'd like to know more about me, visit my [personal site](http://zevyirmiyahu.com), [LinkedIn](https://www.linkedin.com/in/zevyirmiyahu) or connect with me on [Facebook](https://www.facebook.com/ZevYirmiyahu)
