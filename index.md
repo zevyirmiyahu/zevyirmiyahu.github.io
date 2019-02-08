@@ -3,8 +3,6 @@ Here you can find links to all my personal game development projects, as well as
 
 <hr>
 
-![](big_bunny_jump.gif)
-
 ##  *Game Projects* ![](big_bunny_jump.gif)
 ### Java
   * [Pac-Man](https://zevyirmiyahu.github.io/Pac-Man/)
