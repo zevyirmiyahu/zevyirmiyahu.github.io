@@ -2,8 +2,8 @@
 Here you can find links to all my personal game development projects, as well as other development projects. Also, feel free to check out my art at [Zev's Gallery](http://zevyirmiyahu.com/gallery.html) which show cases everything from pencil drawings, digital art to pixel art. 
 
 <hr>
-
-##  *Game Projects* [](https://zevyirmiyahu.github.io/images/gifs/big_bunny_jump.gif)
+[](https://zevyirmiyahu.github.io/images/gifs/big_bunny_jump.gif)
+##  *Game Projects* 
 ### Java
   * [Pac-Man](https://zevyirmiyahu.github.io/Pac-Man/)
   * [Super Mario Survival](https://zevyirmiyahu.github.io/super_mario_survival/)
