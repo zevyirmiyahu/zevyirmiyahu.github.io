@@ -3,7 +3,7 @@ Here you can find links to all my personal game development projects, as well as
 
 <hr>
 
-##  *Game Projects*
+##  *Game Projects* (https://zevyirmiyahu.github.io/images/gifs/big_bunny_jump.gif)
 ### Java
   * [Pac-Man](https://zevyirmiyahu.github.io/Pac-Man/)
   * [Super Mario Survival](https://zevyirmiyahu.github.io/super_mario_survival/)
