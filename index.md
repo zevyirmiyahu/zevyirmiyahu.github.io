@@ -5,6 +5,7 @@ Here you can find links to all my personal game development projects, as well as
 
 ##  *Game Projects*
 ### Java
+  * [Dragon Ball Z: Fighter](https://zevyirmiyahu.github.io/DragonBallZ-Fighter/)
   * [Pac-Man](https://zevyirmiyahu.github.io/Pac-Man/)
   * [Super Mario Survival](https://zevyirmiyahu.github.io/super_mario_survival/)
   * [The Gods of Time](https://zevyirmiyahu.github.io/GOT/)
