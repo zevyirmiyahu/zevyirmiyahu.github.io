@@ -24,6 +24,7 @@ Here you can find links to all my personal game development projects, as well as
   * [Green Screen](https://zevyirmiyahu.github.io/GreenScreen/)
   
 ### Java
+  * [Traffic Light Simulation](https://zevyirmiyahu.github.io/Traffic-Light-Simulation/)
   * [Annuity Loan Repayment Planner](https://zevyirmiyahu.github.io/Loan-Repayment-Planner/)
   * [Student Report Generator](https://zevyirmiyahu.github.io/Student_Report_Generator/)
   * [Number Info Program](https://github.com/zevyirmiyahu/NumberApp)
