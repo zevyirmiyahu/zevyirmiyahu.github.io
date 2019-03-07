@@ -48,6 +48,6 @@ Here you can find links to all my personal game development projects, as well as
 
 <hr>
 
-## Contact ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+## Contact ![](/assets/img/TrueFruit.jpg)
 
 If you'd like to know more about me, visit my [personal site](http://zevyirmiyahu.com), [LinkedIn](https://www.linkedin.com/in/zevyirmiyahu) or connect with me on [Facebook](https://www.facebook.com/ZevYirmiyahu)
